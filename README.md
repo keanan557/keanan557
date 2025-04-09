@@ -1,8 +1,8 @@
 <h1 align="left">Hi 👋, I'm Keanan  </h1>
 <h3 align="left">' Web Application Developer '</h3>
 
-<h3 align="center">Lets Connect!:</h3>
-<p align="center">
+<h3 align="left">Lets Connect!:</h3>
+<p align="left">
 <a href="https://www.behance.net/keananoliver" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="keananoliver" height="30" width="40" />
 </a>
